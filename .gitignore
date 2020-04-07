@@ -1,0 +1,6 @@
+# Default ignored files
+/.idea/workspace.xml
+.idea/
+spring-mvc-practice.iml
+src/
+target/
